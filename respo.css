@@ -1,0 +1,172 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (max-width: 576px) {  
+    .navbar-toggler-icon{
+        background-color: white;
+    }
+    .logo h1{
+        font-size: 30px;
+    }
+    #navbarNav ul{
+        font-size: 13px;
+    }
+    .text1 h1{
+        font-size: 30px;
+    }
+    .text1 h4{
+        font-size: 15px;
+    }
+    #search-row{
+        margin-top: 25px;
+    }
+    #search{
+        padding: 0px;
+    }
+    .fa{
+        font-size: 20px;
+    }
+    .c1 p{
+        padding: 50px;
+        font-size: 20px;
+    }
+    .pc1{
+      font-size: 25px;
+      border-radius: 50px;
+    }
+    .pc3{
+        font-size: 25px;
+        border-radius: 50px;
+        height: 40px;
+        width: 40px;
+    }
+    .iconc2 h1{
+        font-size: 25px;
+    }
+    .icon3 h1{
+        font-size: 25px;
+    }
+    .blog-icon h1{
+        font-size: 25px;
+    }
+    .blogbtn button{
+        margin-left: 115px;
+    }
+    .group-icon h1{
+        font-size: 25px;
+    }
+    .column h2{
+        font-size: 20px;
+    }
+    .column p{
+        font-size: 12px;
+    }
+    
+    .c2 img{
+        text-align: center;
+    }
+    .c4 p{
+      padding: 50px;
+      font-size: 20px;
+    }
+    .c4 a{
+        font-size: 10px;
+    }
+    .con-icon h1{
+        font-size: 25px;
+    }
+    .con-icon i{
+         font-size: 35px;
+    }
+    .btn{
+        margin-left: 20%;
+    }
+    #copyright{
+        font-size: 15px;
+    }
+}  
+
+ 
+/* Medium devices (tablets, 768px and up) The navbar toggle appears at this breakpoint */
+@media (max-width: 768px) {  
+    .logo h1{
+        font-size: 30px;
+    }
+    .text1 h1{
+        font-size: 30px;
+    }
+    .text1 h4{
+        font-size: 15px;
+    }
+    #search-row{
+        margin-top: 25px;
+    }
+    #search{
+        padding: 0px;
+    }
+    .fa{
+        font-size: 20px;
+    }
+    .c1 p{
+        padding: 50px;
+        font-size: 20px;
+    }
+    .pc1{
+      font-size: 25px;
+      border-radius: 50px;
+      height: auto;
+      width: auto;
+    }
+    .pc3{
+        font-size: 25px;
+        border-radius: 50px;
+        height: 40px;
+        width: 40px;
+    }
+    .iconc2 h1{
+        font-size: 25px;
+    }
+    .icon3 h1{
+        font-size: 25px;
+    }
+    .blog-icon h1{
+        font-size: 25px;
+    }
+    .blogbtn button{
+        margin-left: 115px;
+    }
+    .group-icon h1{
+        font-size: 25px;
+    }
+    .column h2{
+        font-size: 20px;
+    }
+    .column p{
+        font-size: 12px;
+    }
+    
+    .c2 img{
+        text-align: center;
+    }
+    .c4 p{
+      padding: 50px;
+      font-size: 20px;
+    }
+    .c4 a{
+        font-size: 10px;
+    }
+    .btn{
+        margin-left: 20%;
+    }
+    #copyright{
+        font-size: 15px;
+    }
+} 
+ 
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { 
+ 
+}
+ 
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {  
+    
+}
